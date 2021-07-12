@@ -2,7 +2,7 @@
 
 ## Content
 ### 1. Extracting and Visualizing Stock Data
-Plotting graphs of historical stock data of Tesla and GameStop
-_Tools_: Python, yfinance, pandas, BeatifulSoup, and plotly
+Plotting graphs of historical stock data of Tesla and GameStop<br/>
+**_Tools_:** Python, yfinance, pandas, BeatifulSoup, and plotly
 
 
